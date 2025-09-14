@@ -17,6 +17,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tiwaripiyush25&show_icons=true&locale=en" alt="tiwaripiyush25" /></p><br><br><br><br><br><br><br><br><br><br><br>
-<p><img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tiwaripiyush25&" alt="tiwaripiyush25" /></p><br><br><br><br><br><br><br><br><br><br><br>
+<p><img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tiwaripiyush25&" alt="tiwaripiyush25" /></p><br><br><br><br><br><br><br><br><br>
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwaripiyush25&show_icons=true&locale=en&layout=compact" alt="tiwaripiyush25" /></p>
